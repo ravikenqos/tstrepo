@@ -1,3 +1,5 @@
+//commit 1
+
 //closures
 // function updateClickCount() {
 //     var counter = 0;
